@@ -8,3 +8,5 @@ git add
 git commit
 git status
 
+now iam in newupdate branch 
+so now i can see that files also
